@@ -1,0 +1,112 @@
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.deps.json
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfo.cs
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CopyComplete
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\refint\StreetFood.BusinessLogic.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\ref\StreetFood.BusinessLogic.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.deps.json
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.AssemblyReference.cache
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfoInputs.cache
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfo.cs
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CopyComplete
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\refint\StreetFood.BusinessLogic.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\ref\StreetFood.BusinessLogic.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Entities.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.deps.json
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfo.cs
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CopyComplete
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\refint\StreetFood.BusinessLogic.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\ref\StreetFood.BusinessLogic.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.deps.json
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfo.cs
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CopyComplete
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\refint\StreetFood.BusinessLogic.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\ref\StreetFood.BusinessLogic.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.deps.json
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfo.cs
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CopyComplete
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\refint\StreetFood.BusinessLogic.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\ref\StreetFood.BusinessLogic.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.AssemblyInfo.cs
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\refint\StreetFood.BusinessLogic.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.deps.json
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\bin\Debug\net6.0\StreetFood.Providers.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\StreetFood.BusinessLogic.csproj.CopyComplete
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.BusinessLogic\obj\Debug\net6.0\ref\StreetFood.BusinessLogic.dll

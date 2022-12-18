@@ -1,0 +1,336 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Repositories\\StreetFood.Repositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.BusinessObjects\\StreetFood.BusinessObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.BusinessObjects\\StreetFood.BusinessObjects.csproj",
+        "projectName": "StreetFood.BusinessObjects",
+        "projectPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.BusinessObjects\\StreetFood.BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\abduk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.BusinessObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abduk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.DAL\\StreetFood.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.DAL\\StreetFood.DAL.csproj",
+        "projectName": "StreetFood.DAL",
+        "projectPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.DAL\\StreetFood.DAL.csproj",
+        "packagesPath": "C:\\Users\\abduk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abduk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Entities\\StreetFood.Entities.csproj": {
+                "projectPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Entities\\StreetFood.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Entities\\StreetFood.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Entities\\StreetFood.Entities.csproj",
+        "projectName": "StreetFood.Entities",
+        "projectPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Entities\\StreetFood.Entities.csproj",
+        "packagesPath": "C:\\Users\\abduk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abduk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Providers\\StreetFood.Providers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Providers\\StreetFood.Providers.csproj",
+        "projectName": "StreetFood.Providers",
+        "projectPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Providers\\StreetFood.Providers.csproj",
+        "packagesPath": "C:\\Users\\abduk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Providers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abduk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.BusinessObjects\\StreetFood.BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.BusinessObjects\\StreetFood.BusinessObjects.csproj"
+              },
+              "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Entities\\StreetFood.Entities.csproj": {
+                "projectPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Entities\\StreetFood.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Repositories\\StreetFood.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Repositories\\StreetFood.Repositories.csproj",
+        "projectName": "StreetFood.Repositories",
+        "projectPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Repositories\\StreetFood.Repositories.csproj",
+        "packagesPath": "C:\\Users\\abduk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abduk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.DAL\\StreetFood.DAL.csproj": {
+                "projectPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.DAL\\StreetFood.DAL.csproj"
+              },
+              "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Entities\\StreetFood.Entities.csproj": {
+                "projectPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Entities\\StreetFood.Entities.csproj"
+              },
+              "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Providers\\StreetFood.Providers.csproj": {
+                "projectPath": "C:\\Users\\abduk\\OneDrive\\Рабочий стол\\Личные Папки\\Нуркен\\Materials\\New Vzrosliy academy\\Ado.Net\\StreetFood(Les12)\\StreetFood(Les12)\\StreetFood\\StreetFood.Providers\\StreetFood.Providers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

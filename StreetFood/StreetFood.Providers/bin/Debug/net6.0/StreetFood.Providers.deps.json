@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StreetFood.Providers/1.0.0": {
+        "dependencies": {
+          "StreetFood.BusinessObjects": "1.0.0",
+          "StreetFood.Entities": "1.0.0"
+        },
+        "runtime": {
+          "StreetFood.Providers.dll": {}
+        }
+      },
+      "StreetFood.BusinessObjects/1.0.0": {
+        "runtime": {
+          "StreetFood.BusinessObjects.dll": {}
+        }
+      },
+      "StreetFood.Entities/1.0.0": {
+        "runtime": {
+          "StreetFood.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreetFood.Providers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StreetFood.BusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StreetFood.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,150 @@
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.deps.json
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.AssemblyReference.cache
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfoInputs.cache
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfo.cs
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CoreCompileInputs.cache
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CopyComplete
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\obj\Debug\net6.0\refint\StreetFood.IoC.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.IoC\obj\Debug\net6.0\ref\StreetFood.IoC.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.deps.json
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.AssemblyReference.cache
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfoInputs.cache
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfo.cs
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CoreCompileInputs.cache
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CopyComplete
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\obj\Debug\net6.0\refint\StreetFood.IoC.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.IoC\obj\Debug\net6.0\ref\StreetFood.IoC.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.deps.json
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.AssemblyReference.cache
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfoInputs.cache
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfo.cs
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CoreCompileInputs.cache
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CopyComplete
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\obj\Debug\net6.0\refint\StreetFood.IoC.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.IoC\obj\Debug\net6.0\ref\StreetFood.IoC.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.deps.json
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.AssemblyReference.cache
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfoInputs.cache
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfo.cs
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CoreCompileInputs.cache
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CopyComplete
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\refint\StreetFood.IoC.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\ref\StreetFood.IoC.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.deps.json
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.AssemblyReference.cache
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfoInputs.cache
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfo.cs
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CoreCompileInputs.cache
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CopyComplete
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\refint\StreetFood.IoC.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\ref\StreetFood.IoC.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.AssemblyReference.cache
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfoInputs.cache
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.AssemblyInfo.cs
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CoreCompileInputs.cache
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\refint\StreetFood.IoC.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.deps.json
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.IoC.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessLogic.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Repositories.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.BusinessObjects.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\bin\Debug\net6.0\StreetFood.Providers.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\StreetFood.IoC.csproj.CopyComplete
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.IoC\obj\Debug\net6.0\ref\StreetFood.IoC.dll

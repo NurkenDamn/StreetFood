@@ -1,0 +1,102 @@
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.deps.json
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.runtimeconfig.json
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.AssemblyReference.cache
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfoInputs.cache
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfo.cs
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CopyComplete
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\obj\Debug\net6.0\refint\StreetFood.DAL.dll
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.genruntimeconfig.cache
+C:\Users\ProninI\source\repos\StreetFood\StreetFood.DAL\obj\Debug\net6.0\ref\StreetFood.DAL.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.deps.json
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.runtimeconfig.json
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.AssemblyReference.cache
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfoInputs.cache
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfo.cs
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CoreCompileInputs.cache
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CopyComplete
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\obj\Debug\net6.0\refint\StreetFood.DAL.dll
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.pdb
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.genruntimeconfig.cache
+D:\Шаг\C#\ADO.NET Шаг\Классная Работа\16.11.2022 Классная работа\StreetFood\StreetFood.DAL\obj\Debug\net6.0\ref\StreetFood.DAL.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.deps.json
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.runtimeconfig.json
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.AssemblyReference.cache
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfoInputs.cache
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfo.cs
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CoreCompileInputs.cache
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CopyComplete
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\obj\Debug\net6.0\refint\StreetFood.DAL.dll
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.genruntimeconfig.cache
+C:\Users\i.pronin\Downloads\StreetFood\StreetFood\StreetFood.DAL\obj\Debug\net6.0\ref\StreetFood.DAL.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.deps.json
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.runtimeconfig.json
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.AssemblyReference.cache
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfoInputs.cache
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfo.cs
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CopyComplete
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\refint\StreetFood.DAL.dll
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.genruntimeconfig.cache
+C:\Users\ProninI\Downloads\Telegram Desktop\StreetFood (3)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\ref\StreetFood.DAL.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.deps.json
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.runtimeconfig.json
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.AssemblyReference.cache
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfoInputs.cache
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfo.cs
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CoreCompileInputs.cache
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CopyComplete
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\refint\StreetFood.DAL.dll
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.genruntimeconfig.cache
+C:\Users\i.pronin\Downloads\Telegram Desktop\StreetFood (2)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\ref\StreetFood.DAL.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.deps.json
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.runtimeconfig.json
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\bin\Debug\net6.0\StreetFood.Entities.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.AssemblyReference.cache
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfoInputs.cache
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.AssemblyInfo.cs
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CoreCompileInputs.cache
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.csproj.CopyComplete
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\refint\StreetFood.DAL.dll
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.pdb
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\StreetFood.DAL.genruntimeconfig.cache
+C:\Users\abduk\OneDrive\Рабочий стол\Личные Папки\Нуркен\Materials\New Vzrosliy academy\Ado.Net\StreetFood(Les12)\StreetFood(Les12)\StreetFood\StreetFood.DAL\obj\Debug\net6.0\ref\StreetFood.DAL.dll
